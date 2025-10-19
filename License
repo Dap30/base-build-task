@@ -1,0 +1,18 @@
+
+---
+
+## 💡 Cara pakai cepat
+1. Buka repo kamu di GitHub.  
+2. Klik **Add file → Create new file**.  
+3. Nama file: `README.md`.  
+4. Paste teks di atas.  
+5. Klik **Commit changes**.
+
+Setelah itu:
+- Kamu otomatis punya **1 commit baru** ✅  
+- Base akan mengenali kamu sebagai *builder*  
+- Syarat “Have at least 1 commit” akan jadi ✅  
+
+---
+
+Mau saya bantu tambahkan juga **.gitignore** dan **LICENSE (MIT)** biar repo-mu terlihat benar-benar siap untuk proyek web3 profesional?
