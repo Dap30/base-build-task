@@ -1,3 +1,6 @@
+echo "Updated for Base Builders verification" >> README.md
+
+
 # 🚀 Base Chain Builder Project
 
 This repository is part of my contribution to the **Base ecosystem** — building and experimenting with decentralized applications and automation tools on **Base**, an Ethereum Layer 2 network powered by Optimism’s OP Stack.
